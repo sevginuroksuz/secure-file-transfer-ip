@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,28 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# IDE ve işletim sistemi
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Çıktı ve log dosyaları
+*.log
+*.csv
+*.png
+*.pcapng
+*.exe
+*.zip
+
+# Gereksiz diğer dosyalar
+cygwin1.dll
+>>>>>>> 1bea4e6 (gitignore eklendi)
