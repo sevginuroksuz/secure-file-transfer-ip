@@ -2,7 +2,7 @@
 
 🔐 A secure file transfer system with low-level IP packet manipulation, developed as a semester project for the Computer Networks course.
 
-## 🚀 Features
+## Features
 
 - AES & RSA encryption for secure transmission
 - SHA-256 hashing for integrity verification
