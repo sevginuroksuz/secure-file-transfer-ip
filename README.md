@@ -140,7 +140,7 @@ python graph.py --input results.csv --output performance.png
 ## 📚 Dokümantasyon Raporu
 
 Detaylı tasarım, mimari ve test sonuçlarını içeren PDF rapor:  
-[docs/ProjeDokumantasyonRaporu.pdf](docs/proje-dokumantasyon-raporu.pdf)
+[docs/proje-dokumantasyon-raporu.pdf](docs/proje-dokumantasyon-raporu.pdf)
 
 ---
 
